@@ -1,0 +1,25 @@
+C:\Users\walidboya\Desktop\emset control\emset admin\emset admin\bin\Debug\emset admin.exe.config
+C:\Users\walidboya\Desktop\emset control\emset admin\emset admin\bin\Debug\emset admin.exe
+C:\Users\walidboya\Desktop\emset control\emset admin\emset admin\bin\Debug\emset admin.pdb
+C:\Users\walidboya\Desktop\emset control\emset admin\emset admin\bin\Debug\emset admin.xml
+C:\Users\walidboya\Desktop\emset control\emset admin\emset admin\bin\Debug\MySql.Data.dll
+C:\Users\walidboya\Desktop\emset control\emset admin\emset admin\bin\Debug\Google.Protobuf.dll
+C:\Users\walidboya\Desktop\emset control\emset admin\emset admin\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\walidboya\Desktop\emset control\emset admin\emset admin\bin\Debug\MySql.Data.xml
+C:\Users\walidboya\Desktop\emset control\emset admin\emset admin\obj\Debug\emset admin.vbprojAssemblyReference.cache
+C:\Users\walidboya\Desktop\emset control\emset admin\emset admin\obj\Debug\emset_admin.Form1.resources
+C:\Users\walidboya\Desktop\emset control\emset admin\emset admin\obj\Debug\emset_admin.Resources.resources
+C:\Users\walidboya\Desktop\emset control\emset admin\emset admin\obj\Debug\emset admin.vbproj.GenerateResource.cache
+C:\Users\walidboya\Desktop\emset control\emset admin\emset admin\obj\Debug\emset admin.vbproj.CoreCompileInputs.cache
+C:\Users\walidboya\Desktop\emset control\emset admin\emset admin\obj\Debug\emset admin.vbproj.CopyComplete
+C:\Users\walidboya\Desktop\emset control\emset admin\emset admin\obj\Debug\emset admin.exe
+C:\Users\walidboya\Desktop\emset control\emset admin\emset admin\obj\Debug\emset admin.xml
+C:\Users\walidboya\Desktop\emset control\emset admin\emset admin\obj\Debug\emset admin.pdb
+C:\Users\walidboya\Desktop\emset control\emset admin\emset admin\bin\Debug\MySql.Web.dll
+C:\Users\walidboya\Desktop\emset control\emset admin\emset admin\bin\Debug\MySql.Web.xml
+C:\Users\walidboya\Desktop\emset control\emset admin\emset admin\obj\Debug\emset_admin.splash.resources
+C:\Users\walidboya\Desktop\emset control\emset admin\emset admin\bin\Debug\emset admin.exe.manifest
+C:\Users\walidboya\Desktop\emset control\emset admin\emset admin\bin\Debug\emset admin.application
+C:\Users\walidboya\Desktop\emset control\emset admin\emset admin\obj\Debug\emset admin.exe.manifest
+C:\Users\walidboya\Desktop\emset control\emset admin\emset admin\obj\Debug\emset admin.application
+C:\Users\walidboya\Desktop\emset control\emset admin\emset admin\obj\Debug\emset_admin.login.resources

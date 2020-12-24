@@ -1,0 +1,56 @@
+CREATE TABLE IF NOT EXISTS `emset`.`stagiaire` (
+  `id` INT NOT NULL AUTO_INCREMENT,
+    `nom` VARCHAR(45) NOT NULL,
+  `prenom` VARCHAR(45) NOT NULL,
+  `inscription` VARCHAR(54) NOT NULL,
+  `filière` VARCHAR(100) NOT NULL,
+  `bourse` VARCHAR(45) NOT NULL,
+  `observation` VARCHAR(200) NULL,
+  `cin` VARCHAR(45) NOT NULL,
+  `TEL` VARCHAR(45) NOT NULL,
+  `durée` VARCHAR(45) NOT NULL,
+    `date` DATE NOT NULL,
+  `user` VARCHAR(45) NOT NULL,
+  PRIMARY KEY (`id`))
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8mb4
+COLLATE = utf8mb4_0900_ai_ci;
+
+
+-- -----------------------------------------------------
+-- Table `emset`.`payement`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `emset`.`payement` (
+  `id` INT NOT NULL AUTO_INCREMENT,
+   `nom` VARCHAR(50) NOT NULL,
+  `prenom` VARCHAR(50) NOT NULL,
+ `Inscription` VARCHAR(54) NOT NULL,
+   `montant` INT NOT NULL,
+ `reçu` VARCHAR(45) NOT NULL,
+  `date` DATE NOT NULL,
+  `cin` VARCHAR(45) NOT NULL,
+  `filière` VARCHAR(200) NOT NULL,
+  `TEL` VARCHAR(45) NOT NULL,
+  `observation` VARCHAR(200) NULL DEFAULT 0,
+  `user` VARCHAR(45) NOT NULL,
+
+
+  PRIMARY KEY (`id`))
+ENGINE = InnoDB;
+
+
+-- -----------------------------------------------------
+-- Table `emset`.`login`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `emset`.`login` (
+  `id` INT NOT NULL AUTO_INCREMENT,
+  `user` VARCHAR(45) NOT NULL,
+  `password` VARCHAR(45) NOT NULL,
+  `admin` VARCHAR(5) NOT NULL,
+  PRIMARY KEY (`id`))
+ENGINE = InnoDB;
+
+
+SET SQL_MODE=@OLD_SQL_MODE;
+SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS;
+SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS;
